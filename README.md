@@ -1,10 +1,10 @@
-# Project 1 - *SampleTodo*
+# Project 1 - *SimpleTodo*
 
-**SampleTodo app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodo app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Quang Dieu Tuong (Caroline) Ta**
 
-Time spent: **12** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2020] [Caroline Ta]
+    Copyright [2021] [Caroline Ta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
